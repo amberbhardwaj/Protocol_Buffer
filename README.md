@@ -38,10 +38,10 @@ Advantages:
 JSON Parsing vs Protobuf Parsing
 --------------------------------------------
 
-Technique	ITR	Protocol Buffer	JSON	Per Second
-Encoding 	1000000	3816ms (262055 enc/s)	3207ms (311818 enc/s)	
-Decoding	1000000	1447ms (691085 dec/s)	2659ms (376081 dec/s)	
-Encoding + Decoding	1000000	4922ms (203169 enc+dec/sec)	6844ms (146113 enc+dec/s)	
+Technique	     |  ITR	     |  Protocol Buffer		    |    JSON	
+Encoding 	     |  1000000	     |  3816ms (262055 enc/s)	    |    3207ms (311818 enc/s)	
+Decoding	     |  1000000	     |  1447ms (691085 dec/s)	    |    2659ms (376081 dec/s)	
+Encoding + Decoding  |  1000000	     |  4922ms (203169 enc+dec/sec) |    6844ms (146113 enc+dec/s)	
 				
 				
 
