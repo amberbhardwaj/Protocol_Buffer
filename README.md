@@ -1,5 +1,4 @@
 # Protocol_Buffer
-Protocol buffer solution for Visual Studio 2012 (Win10)
 
 I am using official version of protocol buffer (3.5.1). To build the protobuf, i slightly modified the CmakeLists.txt file.
 
